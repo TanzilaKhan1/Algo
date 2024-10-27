@@ -229,3 +229,4 @@ public class Graph_Traversal {
         scan.close(); // Close the scanner at the end of the program
     }
 }
+
